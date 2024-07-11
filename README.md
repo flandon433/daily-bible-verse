@@ -1,1 +1,1 @@
-# daily-bible-verse
+# daily-bible-verse.github.io
